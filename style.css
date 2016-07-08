@@ -13,11 +13,13 @@
 
 #contact {
   text-align: center;
+  font-family: comic sans ms;
 }
 
 #experience {
   /* this style applies to all tags with an id of 'experience' */
   margin-top: 20px;
+  font-family: arial;
 }
 
 .experience {
