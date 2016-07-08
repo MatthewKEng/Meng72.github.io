@@ -3,17 +3,17 @@
 	margin-left: 220px;
 	margin-right: 220px;
 
-	padding: 150px 180px 15px 180px;
+	padding: 15px 180px 15px 180px;
 
 	border-radius: 10px;
 	background-color: #add8e6;
 
-	text-align: center;
+	text-align: left;
 }
 
 #contact {
   text-align: center;
-  font-family: comic sans ms;
+  font-family: verdana;
 }
 
 #experience {
