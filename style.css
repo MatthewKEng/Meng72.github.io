@@ -18,6 +18,7 @@ body {
 	margin-bottom: 20px;
   	text-align: center;
   	font-family: verdana;
+  	border-bottom:6px solid gray;
 }
 
 #experience {
