@@ -23,7 +23,7 @@ body {
   	
 }
 
-#contact .h1 {
+#contact>.h1 {
 	text-shadow: 2px 2px #d3d3d3;
 }
 
